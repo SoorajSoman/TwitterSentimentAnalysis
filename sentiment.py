@@ -1,9 +1,6 @@
 import tweepy
 from textblob import TextBlob
-import csv
-import pandas as pd  
 import numpy as np
-import matplotlib.pyplot as plt
 
 consumer_key="YOUR-CONSUMER-KEY"
 consumer_secret="YOUR-CONSUMER-SECRET-KEY"
